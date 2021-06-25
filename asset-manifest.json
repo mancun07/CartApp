@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CartApp/static/css/main.478c1319.chunk.css",
+    "main.js": "/CartApp/static/js/main.53e4a120.chunk.js",
+    "main.js.map": "/CartApp/static/js/main.53e4a120.chunk.js.map",
+    "runtime-main.js": "/CartApp/static/js/runtime-main.20179a7b.js",
+    "runtime-main.js.map": "/CartApp/static/js/runtime-main.20179a7b.js.map",
+    "static/js/2.46911b9e.chunk.js": "/CartApp/static/js/2.46911b9e.chunk.js",
+    "static/js/2.46911b9e.chunk.js.map": "/CartApp/static/js/2.46911b9e.chunk.js.map",
+    "index.html": "/CartApp/index.html",
+    "static/css/main.478c1319.chunk.css.map": "/CartApp/static/css/main.478c1319.chunk.css.map",
+    "static/js/2.46911b9e.chunk.js.LICENSE.txt": "/CartApp/static/js/2.46911b9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20179a7b.js",
+    "static/js/2.46911b9e.chunk.js",
+    "static/css/main.478c1319.chunk.css",
+    "static/js/main.53e4a120.chunk.js"
+  ]
+}
